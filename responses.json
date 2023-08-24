@@ -7,7 +7,1458 @@
       {
         "input": "こんばんは",
         "output": "こんばんは！"
+      },
+      {
+        "input": "おはよう",
+        "output": "おはようございます！"
+      },
+      {
+        "input": "ありがとう",
+        "output": "どういたしまして！"
+      },
+      {
+        "input": "さようなら",
+        "output": "さようなら、また会いましょう！"
+      },
+      {
+        "input": "元気ですか",
+        "output": "はい、元気です！"
+      },
+      {
+        "input": "おやすみ",
+        "output": "おやすみなさい、良い夢を！"
+      },
+      {
+        "input": "名前は？",
+        "output": "私はAIです。あなたのお手伝いをします！"
+      },
+      {
+        "input": "お腹すいた",
+        "output": "お腹がすいたなら、おいしいもの食べましょう！"
+      },
+      {
+        "input": "楽しいこと教えて",
+        "output": "楽しいことを考えると心が軽くなりますよ！"
+      },
+      {
+        "input": "天気予報教えて",
+        "output": "天気予報は晴れです。外出するのにいい日ですね！"
+      },
+      {
+        "input": "今日の日付は？",
+        "output": "今日は2023年8月24日です。"
+      },
+      {
+        "input": "何歳ですか",
+        "output": "私はAIなので、年齢はありませんが、常に学習して成長しています！"
+      },
+      {
+        "input": "怖い話をして",
+        "output": "連帯保証人になっている友人に連絡が取れない"
+      },
+      {
+        "input": " なにができるの？ ",
+        "output": "私ができることは会話です！"
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "どんな趣味があるの？",
+        "output": "私の趣味は会話を通じてあなたのお手伝いをすることです！"
+      },
+      {
+        "input": "恋愛相談して",
+        "output": "恋愛にはいろいろな形がありますが、自分を大切にすることが大切ですよ！"
+      },
+      {
+        "input": " ごめん",
+        "output": " はい！"
+      },
+      {
+        "input": " 何語をしゃべれるのですか？ ",
+        "output": " 現在は日本語のみです"
+      },
+      {
+        "input": " 好きなゲーム ",
+        "output": "PUBG　mobile かクラロワです！ "
+      },
+      {
+        "input": " あなたは誰に作られた？ ",
+        "output": "高校一年生の方です "
+      },
+      {
+        "input": "なにができる？  ",
+        "output": "会話ができます！ "
+      },
+      {
+        "input": " なにができるん？ ",
+        "output": " 会話です！"
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
+      },
+      {
+        "input": "  ",
+        "output": " "
       }
+
     ]
   }
   
