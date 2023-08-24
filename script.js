@@ -53,7 +53,7 @@ recognition.onresult = async (event) => {
   
       if (wordResponses.length > 0) {
         responseElement.textContent = wordResponses[0].output;
-      } else if (speechResult.includes("天気予報おしえて")) {
+      } else if (speechResult.includes("あしたの天気予報おしえて")) {
         try {
           const weather = await fetchWeather(); // 天気情報の取得
           responseElement.textContent = `今日の天気は${weather}です！。`; // 応答生成
