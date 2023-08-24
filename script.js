@@ -1,56 +1,38 @@
-const startBtn = document.getElementById('startBtn');
-const output = document.getElementById('output');
+const startButton = document.getElementById('startButton');
+const responseElement = document.getElementById('response');
 
-// 音声認識をサポートしているかチェック
-if ('SpeechRecognition' in window || 'webkitSpeechRecognition' in window) {
-    const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
-    const recognition = new SpeechRecognition();
+const recognition = new window.webkitSpeechRecognition();
 
-    recognition.lang = 'ja-JP';
+recognition.lang = 'ja-JP';
+recognition.continuous = false;
+recognition.interimResults = false;
 
-    // JSON ファイルから応答を読み込む
-    const request = new XMLHttpRequest();
-    request.open('GET', 'responses.json', true);
-    request.onload = () => {
-        if (request.status >= 200 && request.status < 400) {
-            const responses = JSON.parse(request.responseText);
+let responses = [];
 
-            recognition.onresult = (event) => {
-                const transcript = event.results[0][0].transcript;
-                output.textContent = transcript;
+fetch('responses.json')
+  .then(response => response.json())
+  .then(data => {
+    responses = data.responses;
+  })
+  .catch(error => console.error('Error loading responses:', error));
 
-                if (responses.hasOwnProperty(transcript)) {
-                    speak(responses[transcript]);
-                }
-            };
-        } else {
-            output.textContent = "Failed to load responses.";
-        }
-    };
-    request.onerror = () => {
-        output.textContent = "Failed to load responses.";
-    };
-    request.send();
+recognition.onresult = (event) => {
+  const speechResult = event.results[0][0].transcript;
 
-    recognition.onstart = () => {
-        startBtn.disabled = true;
-        startBtn.textContent = 'Listening...';
-    };
+  let matchingResponse = responses.find(response => speechResult.includes(response.input));
 
-    recognition.onend = () => {
-        startBtn.disabled = false;
-        startBtn.textContent = 'Start Listening';
-    };
+  if (matchingResponse) {
+    responseElement.textContent = matchingResponse.output;
+  } else {
+    responseElement.textContent = 'すみません、よく聞き取れませんでした。';
+  }
+};
 
-    startBtn.addEventListener('click', () => {
-        recognition.start();
-    });
-} else {
-    output.textContent = "Sorry, your browser doesn't support Speech Recognition.";
-}
+recognition.onerror = (event) => {
+  console.error('Recognition error:', event.error);
+};
 
-function speak(message) {
-    const synth = window.speechSynthesis;
-    const utterance = new SpeechSynthesisUtterance(message);
-    synth.speak(utterance);
-}
+startButton.addEventListener('click', () => {
+  recognition.start();
+  responseElement.textContent = 'Listening...';
+});
